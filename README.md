@@ -37,11 +37,12 @@ Model: ΔFTE ~ GAP Coefficient: +16.36 p-value: 0.006 Interpretation: Firm
 These results support Card & Krueger’s central conclusion:
 “The 1992 New Jersey minimum wage increase did not reduce employment — and may have increased it slightly.”
 
-Additional Replication Notes:
+Replication Notes:
 
 Minor cleaning adjustments were made to handle missing values.
 Standard errors are heteroskedasticity-robust (HC1).
 Results are consistent in magnitude and direction with the original study.
+This project provided practical experience replicating a well-known study in labor economics
 
 Environment:
 
